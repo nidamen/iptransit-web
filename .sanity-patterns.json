@@ -1,0 +1,7 @@
+{
+  "_comment": "Per-repo allowlist for mcp-sanity-check. 'admin@iptransit.ai' is an INTENTIONAL public business contact email on this public marketing + compliance site. It is required on the page for A2P/10DLC carrier verification and for customer/abuse contact, and it is a role address (forwards to the master inbox), NOT owner PII. This repo contains ZERO personal emails, phone numbers, home address, names, or secrets — only the IP Transit LLC business identity that is meant to be public.",
+  "identifiers": [],
+  "allow": [
+    "admin@iptransit.ai"
+  ]
+}
